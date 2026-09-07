@@ -141,4 +141,11 @@ public class HomeController {
 ### application.properties:
  server.port=8081
 
+ ### Output:
+ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5c2946d9-55a0-4b05-80ea-bb244ff431ad" />
+
+ ### Result:
+ Hence Simple Spring Boot MVC is successfully created
+
+
 
